@@ -1,2 +1,2 @@
-# Homelab-AD-DS
-first homelab to practice A+ and basics
+# Homelab-AD-MyBLAD
+first homelab to practice A+ and basics (with a dot of SOC)
